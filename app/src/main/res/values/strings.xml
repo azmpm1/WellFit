@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS1</string>
+    <string name="create_account_title">Buat Akun Baru</string>
+    <string name="create_account_subtitle">Satu langkah lagi menuju hidup sehat</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_account">Sudah punya akun? Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+</resources>

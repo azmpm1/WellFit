@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517690181016",
+    "project_id": "myuas1-d61b3",
+    "storage_bucket": "myuas1-d61b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517690181016:android:87a54f54593e79f91fd7ed",
+        "android_client_info": {
+          "package_name": "com.example.uas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72QspaGbtoresNMg01TRu8omyHZPhfdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wellfit_green_primary">#4CAF50</color> <color name="wellfit_green_dark">#388E3C</color> <color name="wellfit_background">#F1FAEE</color> <color name="wellfit_text_primary">#2B2D42</color> <color name="wellfit_text_secondary">#8D99AE</color> <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="bmi_underweight">#3498DB</color> <color name="bmi_ideal">#2ECC71</color>       <color name="bmi_overweight">#F1C40F</color>  <color name="bmi_obese">#E74C3C</color>
+</resources>
